@@ -4,6 +4,8 @@
 
 The module provides functionality to extend cart page with shopping list functionality.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
